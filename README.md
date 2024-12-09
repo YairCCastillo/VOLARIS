@@ -1,7 +1,7 @@
 # VOLARIS
 Ejercicios de Data Engineering, Análisis exploratorios, Machine Learning y SQL
 
-Clasificación
+Realiza un modelo de clusterización para clientes basado en sus características de compra, incluye insights de cada cluster basados en su comportamiento (E Commerce Dataset) 
 ![a287730e-cde7-4ef6-8746-8a4654b74ac0](https://github.com/user-attachments/assets/384c594e-3ed6-4b83-81b8-75ff362073c3)
 ![04088000-b9b4-42e5-92f0-bfd3107eb673](https://github.com/user-attachments/assets/e1d03212-fb73-48ca-b742-f973c54f1473)
 
